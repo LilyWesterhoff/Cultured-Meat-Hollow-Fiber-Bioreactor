@@ -13,6 +13,7 @@ This Streamlit application models "best-case" scenario continuous harvest of sus
 1. Clone this repository:
    ```
    git clone https://github.com/LilyWesterhoff/Cultured-Meat-Hollow-Fiber-Bioreactor.git
+   cd Cultured-Meat-Hollow-Fiber-Bioreactor
    ```
 
 2. Create a virtual environment and install dependencies:
@@ -30,7 +31,10 @@ streamlit run solve_pmm_model.py
 ```
 
 The app will be available at http://localhost:8501
-Steps 2-3 can be automatically completed by running the setup shell script: zsh setup_venv.sh 
+Steps 2-3 can be automatically completed by running the setup shell script: 
+```
+zsh setup_venv.sh 
+```
 
 ## License
 
