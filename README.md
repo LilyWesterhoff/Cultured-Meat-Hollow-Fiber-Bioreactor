@@ -13,7 +13,6 @@ This Streamlit application models "best-case" scenario continuous harvest of sus
 1. Clone this repository:
    ```
    git clone https://github.com/LilyWesterhoff/Cultured-Meat-Hollow-Fiber-Bioreactor.git
-   cd porous_media_model
    ```
 
 2. Create a virtual environment and install dependencies:
